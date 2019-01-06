@@ -1,4 +1,4 @@
-class SkycoinCX < Formula
+class SkycoinCx < Formula
     desc "Skycoin CX is a general purpose, interpreted and compiled programming language, with a very strict type system and a syntax similar to Go(lang). CX provides a new programming paradigm based on the concept of affordances."
     homepage "https://github.com/skycoin/cx"
     url "https://github.com/skycoin/cx/files/2588185/cx-0.5.17-bin-macos-x64.zip"
