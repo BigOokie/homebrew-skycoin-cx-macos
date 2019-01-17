@@ -7,8 +7,15 @@ Homebrew Tap for Skycoin CX Programming Language on MacOS has now been incorpora
 The commands listed below have been updated to reference the official Skycoin Repo
 
 ## Usage
-Use the following commands to first Tap the Homebrew Formule (from Skycoin Repo), then install Skycoin CX to your system.
+**Steps to switch from BigOokie's CX Homebrew to official Skycoin (MacOS):**
 
+**Unintall & Untap from BigOokie:**
+```sh
+brew uninstall skycoin-cx
+brew untap bigookie/skycoin-cx-macos
+```
+
+**Tap & Install from Skycoin:**
 ```sh
 brew tap skycoin/homebrew-skycoin
 brew install skycoin-cx
