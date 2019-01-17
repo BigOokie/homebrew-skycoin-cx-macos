@@ -1,12 +1,13 @@
 # homebrew-skycoin-cx-macos
-Homebrew Tap for Skycoin CX Programming Language on MacOS has now been incorporated into the official Skycoin GitHub Repo. Please utilise the official source on-going as this repo is now depricsted and will not be updated.
+
+**Deprecated:**
+
+Homebrew Tap for Skycoin CX Programming Language on MacOS has now been incorporated into the official [Skycoin GitHub Repo](https://github.com/skycoin/cx/blob/develop/README.md#macos-homebrew-install). Please utilise the official source on-going as this repo is now deprecated and will be archived.
 
 The commands listed below have been updated to reference the official Skycoin Repo
 
-https://github.com/skycoin/cx/blob/develop/README.md#macos-homebrew-install
-
 ## Usage
-Use the following commands to first Tap the Homebrew Formule, then install Skycoin CX to your system.
+Use the following commands to first Tap the Homebrew Formule (from Skycoin Repo), then install Skycoin CX to your system.
 
 ```sh
 brew tap skycoin/homebrew-skycoin
